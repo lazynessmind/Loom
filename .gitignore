@@ -1,0 +1,6 @@
+premake5.exe
+Loom.*
+bin-int
+bin
+build.bat
+.vs
